@@ -22,12 +22,12 @@ Check out our wide range of plectrums and thumb picks, available in various mate
 
 ## How to Order
 
-DaveDavePicks is part of the [Heavy Repping!](https://www.heavyrepping.com){:target="_blank"}  Guild, which brings together members of the Plectroverse from around the world to the best guitar picks shop on the internet! Check out the [DaveDavePicks shop](https://www.heavyrepping.com/shop/store/davedavepicks/){:target="_blank"} and the [other makers](https://www.heavyrepping.com/shop/plectroverse-makers/){:target="_blank"} "immediate"!
+DaveDavePicks is part of the [Heavy Repping!](https://www.heavyrepping.com){:target="_blank"}  Guild, which brings together members of the Plectroverse from around the world to the best guitar picks shop on the internet! Check out the [DaveDavePicks shop](https://www.heavyrepping.com/shop/store/davedavepicks/) and the [other makers](https://www.heavyrepping.com/shop/plectroverse-makers/){:target="_blank"} "immediate"!
 
 ## Socials
 
-- Instagram: <a href="https://www.instagram.com/davedavepicks/" target="_blank">@davedavepicks</a>
-- Facebook: <a href="https://www.facebook.com/DaveDavePicks" target="_blank">@davedavepicks</a>
+- Instagram: [@davedavepicks](https://www.instagram.com/davedavepicks/){:target="_blank"}
+- Facebook: [@davedavepicks](https://www.facebook.com/DaveDavePicks){:target="_blank"}
 
 ---
 
