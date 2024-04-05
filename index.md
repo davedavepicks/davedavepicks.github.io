@@ -22,7 +22,7 @@ Check out our wide range of plectrums and thumb picks, available in various mate
 
 ## How to Order
 
-Check out the shop on [Heavy Repping!](https://www.heavyrepping.com/shop/store/davedavepicks/)
+DaveDavePicks is part of the [Heavy Repping!](https://www.heavyrepping.com) Guild, which brings together members of the Plectroverse from around the world to the best guitar picks shop on the internet! Check out the [DaveDavePicks shop](https://www.heavyrepping.com/shop/store/davedavepicks/) and the [other makers](https://www.heavyrepping.com/shop/plectroverse-makers/) "immediate"!
 
 ## Socials
 
