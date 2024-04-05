@@ -1,0 +1,14 @@
+# Site settings
+title: DaveDavePicks
+description: DaveDavePicks plectrums and thumb picks
+theme: jekyll-theme-minimal
+
+# GitHub Pages settings
+remote_theme: "davedavepicks/davedavepicks.github.io"
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+
+# Build settings
+markdown: kramdown
+permalink: /:title/
