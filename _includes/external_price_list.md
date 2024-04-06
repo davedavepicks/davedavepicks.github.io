@@ -1,35 +1,44 @@
-| Plectrum               | Materials                          | Description                                               | Dimensions                                        | Price 3d printed   | Price handmade   | Price cast   |
-|:-----------------------|:-----------------------------------|:----------------------------------------------------------|:--------------------------------------------------|:-------------------|:-----------------|:-------------|
-| Sgian                  | acrylic, resin, epoxy              | *Sgian* = *dagger* - bevelled *pointy* with ergo carves   | 24.2 mm x 28.1 mm x 6 mm (3-4 mm inside carves)   | 12.5               | 20.0             | 12.5         |
-| Sgian Fiodha           | wood                               | *Sgian Fiodha* = *wooden dagger*                          | 24.2 mm x 28.1 mm x 6 mm (3-4 mm inside carves)   | -                  | 15.0             | -            |
-| Sgian Rèidh            | acrylic, resin, epoxy              | *Sgian Rèidh* = *flat dagger*                             | 24.2 mm x 28.1 mm x 4.1 mm                        | 10.0               | 15.0             | 10.0         |
-| Sgian Mòr              | acrylic, resin, epoxy              | *Sgian Mòr* = *big dagger*                                | 29.2 mm x 31.7 mm x 6.2 mm (3-4 mm inside carves) | 12.5               | 20.0             | 12.5         |
-| Sgian Rèidh Mòr        | acrylic, resin, epoxy              | *Sgian Rèidh Mòr* = *big flat dagger*                     | 29.2 mm x 31.7 mm x 6.2 mm                        | 10.0               | 15.0             | 10.0         |
-| Triquetra              | acrylic, resin, epoxy              | *Triquetra* = *rounded triangle*                          | 25.5 mm x 27.2 mm x 4.0 mm                        | 10.0               | 15.0             | 10.0         |
-| Triquetra Fiodha       | wood                               | *Triquetra Fiodha* = *rounded wooden triangle*            | 25 mm x 27 mm x 4 mm                              | -                  | 12.5             | -            |
-| Triquetra Mòr          | acrylic, resin, epoxy              | *Triquetra Mòr* = *big rounded triangle*                  | 34.1 mm x 32.9 mm x 6.0 mm                        | 10.0               | 15.0             | 10.0         |
-| Triquetra Fiodha Mòr   | wood                               | *Triquetra Fiodha Mòr* = *big rounded wooden triangle*    | 34 mm x 32 mm x 6 m                               | -                  | 12.5             | -            |
-| Triquetra Geinn        | acrylic, resin, epoxy              | *Triquetra Geinn* = *wedge-shaped triangle*               | 27.8 mm x 27.3 mm x 6.0 mm                        | 10.0               | 15.0             | 10.0         |
-| Triquetra Mòr Geinn    | acrylic, resin, epoxy              | *Triquetra Mòr Geinn* = *big wedge-shaped triangle*       | 34.6.8 mm x 34.0 mm x 9.0 mm                      | 10.0               | 15.0             | 10.0         |
-| Triquetra Geinn Fiodha | wood                               | *Triquetra Geinn Fiodha* = *wedge-shaped wooden triangle* | 27 mm x 27 mm x 6 mm                              | -                  | 12.5             | -            |
-| Cruinn                 | acrylic, resin, epoxy              | *Cruinn* = *rounded*                                      | 24.5 mm x 25.1 mm x 4.0 mm                        | 10.0               | 15.0             | 10.0         |
-| Dheth                  | acrylic, resin, epoxy              | *Off-set* 351                                             | 22.4 mm x 26.5 mm x 3.6 mm                        | 10.0               | 15.0             | 10.0         |
-| Ord S                  | resin, epoxy                       | Ben Smith Signature Òrd Thumb Pick<br/><br/>**Size S**    | 13.9 mm x 28.2 mm x 17.8 mm, 2.4 mm thick at tip  | 12.5               | 30.0             | 12.5         |
-| Ord M                  | resin, epoxy                       | Ben Smith Signature Òrd Thumb Pick<br/><br/>**Size M**    | 13.9 mm x 29.4 mm x 19.6 mm, 2.4 mm thick at tip  | 12.5               | 30.0             | 12.5         |
-| Ord L                  | resin, epoxy                       | Ben Smith Signature Òrd Thumb Pick<br/><br/>**Size L**    | 13.9 mm x 31.3 mm x 20.8 mm, 2.4 mm thick at tip  | 12.5               | 30.0             | 12.5         |
-| Sleagh S               | resin, epoxy                       | Sleagh Thumb Pick<br/><br/>**Size S**                     | 14.5 mm x 27.8 mm x 18.2 mm, 1.6 mm thick at tip  | 12.5               | -                | 12.5         |
-| Sleagh M               | resin, epoxy                       | Sleagh Thumb Pick<br/><br/>**Size M**                     | 14.5 mm x 29.8 mm x 19.2 mm, 1.6 mm thick at tip  | 12.5               | -                | 12.5         |
-| Sleagh L               | resin, epoxy                       | Sleagh Thumb Pick<br/><br/>**Size L**                     | 14.5 mm x 31.7 mm x 21.2 mm, 1.6 mm thick at tip  | 12.5               | -                | 12.5         |
-| Sgeilbean (single)     | resin                              | Finger picks (single)                                     | 18.7 mm x 17.3 mm x 22.6 mm                       | 10.0               | -                | -            |
-| Sgeilbean (set)        | resin                              | Finger picks (set)                                        | 18.7 mm x 17.3 mm x 22.6 mm                       | 20.0               | -                | -            |
-| Oir Beò                | resin, wood                        | *Oir Beò* = *live edge*                                   | 22.6 mm x 24.9 mm x 6.0 mm                        | 7.5                | 12.5             | 7.5          |
-| Dreag                  | acrylic, resin, epoxy              | Jimmy Brewer Signature Pick - The *Dreag*                 | 20.2 mm x 25.5 mm x 6.0 mm                        | 10.0               | 15.0             | 10.0         |
-| TriTagh                | acrylic, resin, epoxy              | *TriTagh* = *three-options triangle*                      | 29.5 mm x 28.5 mm x 4.0 mm                        | 10.0               | 15.0             | 10.0         |
-| TriTagh Fiodha         | wood                               | *TriTagh Fiodha* = *three-options wooden triangle*        | 29 mm x 28 mm x 4 mm                              | -                  | 12.5             | -            |
-| Hebridean              | acrylic                            | Bound rounded triangle                                    | 26 mm x 27 mm x 4 mm                              | -                  | 25.0             | -            |
-| Hebridean Fiodha       | wood                               | Bound wooden rounded triangle                             | 26 mm x 27 mm x 4 mm                              | -                  | 22.5             | -            |
-| Hebridean II           | resin                              | Bound rounded triangle                                    | 25.5 mm x 27.2 mm x 4.0 mm                        | 20.0               | -                | -            |
-| Meatailt               | metal                              | *Meatailt* = *metal*                                      | -                                                 | -                  | 17.5             | -            |
-| 'Nar Measg             | resin                              | *'Nar Measg* = *among us*                                 | 27.4 mm x 26.1 mm x 5.6 mm                        | 12.5               | -                | -            |
-| 501                    | epoxy                              | 501 denim composite pick                                  | -                                                 | -                  | 20.0             | -            |
-| Custom                 | resin, acrylic, epoxy, wood, metal | Custom pick made in consultation                          | -                                                 | 42.5               | 42.5             | 42.5         |
+| Plectrum                                            | Materials                          | Price 3d printed   | Price handmade   | Price cast   | Image MD   |
+|:----------------------------------------------------|:-----------------------------------|:-------------------|:-----------------|:-------------|:-----------|
+| [Sgian](sgian.md)                                   | acrylic, resin, epoxy              | 15.0               | 25.0             | 15.0         | -          |
+| [Sgian LH](sgian_lh.md)                             | acrylic, resin, epoxy              | 15.0               | 25.0             | 15.0         | -          |
+| [Sgian Fiodha](sgian_fiodha.md)                     | wood                               | -                  | 17.5             | -            | -          |
+| [Sgian Fiodha LH](sgian_fiodha_lh.md)               | wood                               | -                  | 17.5             | -            | -          |
+| [Sgian Rèidh](sgian_rèidh.md)                       | acrylic, resin, epoxy              | 12.5               | 17.5             | 12.5         | -          |
+| [Sgian Mòr](sgian_mòr.md)                           | acrylic, resin, epoxy              | 15.0               | 25.0             | 15.0         | -          |
+| [Sgian Mòr LH](sgian_mòr_lh.md)                     | acrylic, resin, epoxy              | 15.0               | 25.0             | 15.0         | -          |
+| [Sgian Rèidh Mòr](sgian_rèidh_mòr.md)               | acrylic, resin, epoxy              | 12.5               | 17.5             | 12.5         | -          |
+| [Triquetra](triquetra.md)                           | acrylic, resin, epoxy              | 12.5               | 17.5             | 12.5         | -          |
+| [Triquetra Fiodha](triquetra_fiodha.md)             | wood                               | -                  | 12.5             | -            | -          |
+| [Triquetra Mòr](triquetra_mòr.md)                   | acrylic, resin, epoxy              | 12.5               | 17.5             | 12.5         | -          |
+| [Triquetra Fiodha Mòr](triquetra_fiodha_mòr.md)     | wood                               | -                  | 12.5             | -            | -          |
+| [Triquetra Geinn](triquetra_geinn.md)               | acrylic, resin, epoxy              | 12.5               | 17.5             | 12.5         | -          |
+| [Triquetra Mòr Geinn](triquetra_mòr_geinn.md)       | acrylic, resin, epoxy              | 12.5               | 17.5             | 12.5         | -          |
+| [Triquetra Geinn Fiodha](triquetra_geinn_fiodha.md) | wood                               | -                  | 12.5             | -            | -          |
+| [Cruinn](cruinn.md)                                 | acrylic, resin, epoxy              | 12.5               | 17.5             | 12.5         | -          |
+| [Dheth](dheth.md)                                   | acrylic, resin, epoxy              | 12.5               | 17.5             | 12.5         | -          |
+| [Ord S](ord_s.md)                                   | resin, epoxy                       | 15.0               | 30.0             | 15.0         | -          |
+| [Ord M](ord_m.md)                                   | resin, epoxy                       | 15.0               | 30.0             | 15.0         | -          |
+| [Ord L](ord_l.md)                                   | resin, epoxy                       | 15.0               | 30.0             | 15.0         | -          |
+| [Ord S LH](ord_s_lh.md)                             | resin, epoxy                       | 15.0               | 30.0             | 15.0         | -          |
+| [Ord M LH](ord_m_lh.md)                             | resin, epoxy                       | 15.0               | 30.0             | 15.0         | -          |
+| [Ord L LH](ord_l_lh.md)                             | resin, epoxy                       | 15.0               | 30.0             | 15.0         | -          |
+| [Sleagh S](sleagh_s.md)                             | resin, epoxy                       | 15.0               | -                | 15.0         | -          |
+| [Sleagh M](sleagh_m.md)                             | resin, epoxy                       | 15.0               | -                | 15.0         | -          |
+| [Sleagh L](sleagh_l.md)                             | resin, epoxy                       | 15.0               | -                | 15.0         | -          |
+| [Sleagh S LH](sleagh_s_lh.md)                       | resin, epoxy                       | 15.0               | -                | 15.0         | -          |
+| [Sleagh M LH](sleagh_m_lh.md)                       | resin, epoxy                       | 15.0               | -                | 15.0         | -          |
+| [Sleagh L LH](sleagh_l_lh.md)                       | resin, epoxy                       | 15.0               | -                | 15.0         | -          |
+| [Sgeilbean (single)](sgeilbean_(single).md)         | resin                              | 12.5               | -                | -            | -          |
+| [Sgeilbean (set)](sgeilbean_(set).md)               | resin                              | 25.0               | -                | -            | -          |
+| [Oir Beò](oir_beò.md)                               | resin, wood                        | 10.0               | 12.5             | 10.0         | -          |
+| [Dreag](dreag.md)                                   | acrylic, resin, epoxy              | 12.5               | 17.5             | 12.5         | -          |
+| [TriTagh](tritagh.md)                               | acrylic, resin, epoxy              | 12.5               | 17.5             | 12.5         | -          |
+| [TriTagh Fiodha](tritagh_fiodha.md)                 | wood                               | -                  | 12.5             | -            | -          |
+| [Hebridean](hebridean.md)                           | acrylic                            | -                  | 30.0             | -            | -          |
+| [Hebridean Fiodha](hebridean_fiodha.md)             | wood                               | -                  | 25.0             | -            | -          |
+| [Hebridean II](hebridean_ii.md)                     | resin                              | 25.0               | -                | -            | -          |
+| [Meatailt](meatailt.md)                             | metal                              | -                  | 20.0             | -            | -          |
+| ['Nar Measg](nar_measg.md)                          | resin                              | 15.0               | -                | -            | -          |
+| [501](501.md)                                       | epoxy                              | -                  | 25.0             | -            | -          |
+| [Custom](custom.md)                                 | resin, acrylic, epoxy, wood, metal | 52.5               | 50.0             | 52.5         | -          |
