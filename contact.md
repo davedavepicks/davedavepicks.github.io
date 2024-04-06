@@ -2,10 +2,6 @@
 title: Contact
 ---
 
-{% include header.md %}
-
----
-
 # Contact
 Any questions, feel free!
 

@@ -2,10 +2,6 @@
 title: Products
 ---
 
-{% include header.md %}
-
----
-
 # Products
 
 DaveDavePicks is probably most known for the original Sgian, an ergonomic flat pick, and for the Òrd thumb pick - signature pick of [Ben Smith](https://bensmithguitar.com/). Both of these have left- and right-hand variants. [Get in touch](contact.md) if you're left handed for the lefty discount! 
