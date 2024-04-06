@@ -6,11 +6,9 @@ title: Home
 
 ---
 
-## About
-
 Handmade and hand-finished 3d-printed and cast plectrums and thumb picks, made from the finest materials for tone, durability and beauty. We are passionate about providing high-quality plectrums for guitarists of all levels. Whether you're a beginner or a seasoned pro, we have the perfect plectrum for you.
 
-## [Our Products](products.md)
+## [Products](products.md)
 
 Check out our wide range of plectrums and thumb picks, available in various materials, thicknesses, and designs. 
 <br>We offer picks made from:
