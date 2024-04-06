@@ -4,7 +4,7 @@ description: DaveDavePicks plectrums and thumb picks
 theme: jekyll-theme-slate
 
 # GitHub Pages settings
-remote_theme: "davedavepicks/davedavepicks.github.io"
+#remote_theme: "davedavepicks/davedavepicks.github.io"
 plugins:
   - jekyll-feed
   - jekyll-seo-tag
