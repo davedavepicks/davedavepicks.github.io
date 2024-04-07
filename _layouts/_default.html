@@ -18,7 +18,7 @@
     {% include head-custom.html %}
   </head>
   <body>
-      <div id="header">
+  <!-- <div id="header">
         <nav>
           <ul>
             <li class="fork"><a href="{{ site.github.repository_url }}">View On GitHub</a></li>
@@ -29,20 +29,33 @@
             {% endif %}
           </ul>
         </nav>
-      </div><!-- end header -->
-
+      </div> -->
     <div class="wrapper">
+    <div id="header">
+      <a href="{{ site.baseurl }}/">
+        <img src="{{ site.logo | prepend: site.baseurl | relative_url }}" alt="{{ site.title | default: site.github.repository_name }}" width="150">
+        </img>
+      </a>
+      
+      <!-- <h1>{{ site.title | default: site.github.repository_name }}</h1> -->
+      <p>{{ site.description | default: site.github.project_tagline }}</p>
+      <hr>
+    </div>
 
+    
       <section>
-        <div id="title">
-          <h1>{{ site.title | default: site.github.repository_name }}</h1>
-          <p>{{ site.description | default: site.github.project_tagline }}</p>
-          <hr>
+        {{ content }}
+      </section>
+    </div>
+
+    <div id="footer">
+      <section>
+        <div>
+          <span class="credits left">Thank you for visiting DaveDavePicks.</a></span>
+          <span class="credits right">All content Copyright &copy; DaveDavePicks 2024 under Apache 2.0 license.</a></span>
           <span class="credits left">Project maintained by <a href="{{ site.github.owner_url }}">{{ site.github.owner_name }}</a></span>
           <span class="credits right">Hosted on GitHub Pages &mdash; Theme by <a href="https://twitter.com/mattgraham">mattgraham</a></span>
         </div>
-
-        {{ content }}
 
       </section>
 
