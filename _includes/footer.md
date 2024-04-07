@@ -1,1 +1,1 @@
-Thank you for visiting DaveDavePicks. All content copyright DaveDavePicks 2024 under Apache 2.0 license.
+Thank you for visiting DaveDavePicks. All content Copyright &copy; DaveDavePicks 2024 under Apache 2.0 license.
