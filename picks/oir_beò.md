@@ -4,9 +4,9 @@ title: Products - Oir Beò
 
 # Oir Beò
 
-![oir_beò](../assets/img/oir_beò.jpg) "oir_beò"
+nan
 
-Always see the [Heavy Repping!](https://www.heavyrepping.com) website for current listings and their exact descriptions.
+Always see the DaveDavePicks shop on [Heavy Repping!](https://www.heavyrepping.com/store/shop/davedavepicks/) for current listings and their exact descriptions.
 
 ## General Information
 *Oir Beò* = *live edge*

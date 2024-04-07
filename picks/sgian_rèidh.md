@@ -4,9 +4,9 @@ title: Products - Sgian Rèidh
 
 # Sgian Rèidh
 
-![sgian_rèidh](../assets/img/sgian_rèidh.jpg) "sgian_rèidh"
+nan
 
-Always see the [Heavy Repping!](https://www.heavyrepping.com) website for current listings and their exact descriptions.
+Always see the DaveDavePicks shop on [Heavy Repping!](https://www.heavyrepping.com/store/shop/davedavepicks/) for current listings and their exact descriptions.
 
 ## General Information
 *Sgian Rèidh* = *flat dagger*

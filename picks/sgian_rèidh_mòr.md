@@ -4,9 +4,9 @@ title: Products - Sgian Rèidh Mòr
 
 # Sgian Rèidh Mòr
 
-![sgian_rèidh_mòr](../assets/img/sgian_rèidh_mòr.jpg) "sgian_rèidh_mòr"
+nan
 
-Always see the [Heavy Repping!](https://www.heavyrepping.com) website for current listings and their exact descriptions.
+Always see the DaveDavePicks shop on [Heavy Repping!](https://www.heavyrepping.com/store/shop/davedavepicks/) for current listings and their exact descriptions.
 
 ## General Information
 *Sgian Rèidh Mòr* = *big flat dagger*

@@ -4,9 +4,9 @@ title: Products - Triquetra Mòr
 
 # Triquetra Mòr
 
-![triquetra_mòr](../assets/img/triquetra_mòr.jpg) "triquetra_mòr"
+nan
 
-Always see the [Heavy Repping!](https://www.heavyrepping.com) website for current listings and their exact descriptions.
+Always see the DaveDavePicks shop on [Heavy Repping!](https://www.heavyrepping.com/store/shop/davedavepicks/) for current listings and their exact descriptions.
 
 ## General Information
 *Triquetra Mòr* = *big rounded triangle*

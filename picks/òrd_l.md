@@ -4,9 +4,9 @@ title: Products - Òrd L
 
 # Òrd L
 
-![òrd](../assets/img/òrd.jpg) "òrd"
+nan
 
-Always see the [Heavy Repping!](https://www.heavyrepping.com) website for current listings and their exact descriptions.
+Always see the DaveDavePicks shop on [Heavy Repping!](https://www.heavyrepping.com/store/shop/davedavepicks/) for current listings and their exact descriptions.
 
 ## General Information
 Ben Smith Signature Òrd Thumb Pick, **Right-handed, Size L**

@@ -4,9 +4,9 @@ title: Products - 'Nar Measg
 
 # 'Nar Measg
 
-![nar_measg](../assets/img/nar_measg.jpg) "nar_measg"
+nan
 
-Always see the [Heavy Repping!](https://www.heavyrepping.com) website for current listings and their exact descriptions.
+Always see the DaveDavePicks shop on [Heavy Repping!](https://www.heavyrepping.com/store/shop/davedavepicks/) for current listings and their exact descriptions.
 
 ## General Information
 *'Nar Measg* = *among us*
@@ -21,7 +21,7 @@ resin
 
 | **Plectrum**                                        | **Price 3d printed**   | **Price handmade**   | **Price cast**   |
 |:----------------------------------------------------|:-----------------------|:---------------------|:-----------------|
-| 'Nar Measg                                          | 15.0               | nan             | nan         |
+| 'Nar Measg                                          | 15.0               | -             | -         |
 
 ---
 

@@ -4,9 +4,9 @@ title: Products - Triquetra
 
 # Triquetra
 
-![triquetra](../assets/img/triquetra.jpg) "triquetra"
+nan
 
-Always see the [Heavy Repping!](https://www.heavyrepping.com) website for current listings and their exact descriptions.
+Always see the DaveDavePicks shop on [Heavy Repping!](https://www.heavyrepping.com/store/shop/davedavepicks/) for current listings and their exact descriptions.
 
 ## General Information
 *Triquetra* = *rounded triangle*

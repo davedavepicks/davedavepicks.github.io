@@ -4,9 +4,9 @@ title: Products - Custom
 
 # Custom
 
-![custom](../assets/img/custom.jpg) "custom"
+nan
 
-Always see the [Heavy Repping!](https://www.heavyrepping.com) website for current listings and their exact descriptions.
+Always see the DaveDavePicks shop on [Heavy Repping!](https://www.heavyrepping.com/store/shop/davedavepicks/) for current listings and their exact descriptions.
 
 ## General Information
 Custom pick made in consultation
@@ -17,7 +17,7 @@ Something entirely custom, handmade using any plastic, wood, metal, or 3d printe
 resin, acrylic, epoxy, wood, metal
 
 ## Dimensions
-None
+-
 
 | **Plectrum**                                        | **Price 3d printed**   | **Price handmade**   | **Price cast**   |
 |:----------------------------------------------------|:-----------------------|:---------------------|:-----------------|

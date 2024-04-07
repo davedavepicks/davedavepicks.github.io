@@ -4,9 +4,9 @@ title: Products - Triquetra Fiodha
 
 # Triquetra Fiodha
 
-![triquetra_fiodha](../assets/img/triquetra_fiodha.jpg) "triquetra_fiodha"
+nan
 
-Always see the [Heavy Repping!](https://www.heavyrepping.com) website for current listings and their exact descriptions.
+Always see the DaveDavePicks shop on [Heavy Repping!](https://www.heavyrepping.com/store/shop/davedavepicks/) for current listings and their exact descriptions.
 
 ## General Information
 *Triquetra Fiodha* = *rounded wooden triangle*
@@ -21,7 +21,7 @@ wood
 
 | **Plectrum**                                        | **Price 3d printed**   | **Price handmade**   | **Price cast**   |
 |:----------------------------------------------------|:-----------------------|:---------------------|:-----------------|
-| Triquetra Fiodha                                          | nan               | 12.5             | nan         |
+| Triquetra Fiodha                                          | -               | 12.5             | -         |
 
 ---
 

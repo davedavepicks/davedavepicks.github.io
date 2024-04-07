@@ -4,9 +4,9 @@ title: Products - Hebridean Fiodha
 
 # Hebridean Fiodha
 
-![hebridean_fiodha](../assets/img/hebridean_fiodha.jpg) "hebridean_fiodha"
+nan
 
-Always see the [Heavy Repping!](https://www.heavyrepping.com) website for current listings and their exact descriptions.
+Always see the DaveDavePicks shop on [Heavy Repping!](https://www.heavyrepping.com/store/shop/davedavepicks/) for current listings and their exact descriptions.
 
 ## General Information
 Bound wooden rounded triangle
@@ -21,7 +21,7 @@ wood
 
 | **Plectrum**                                        | **Price 3d printed**   | **Price handmade**   | **Price cast**   |
 |:----------------------------------------------------|:-----------------------|:---------------------|:-----------------|
-| Hebridean Fiodha                                          | nan               | 25.0             | nan         |
+| Hebridean Fiodha                                          | -               | 25.0             | -         |
 
 ---
 

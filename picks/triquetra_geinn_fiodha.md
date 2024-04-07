@@ -4,9 +4,9 @@ title: Products - Triquetra Geinn Fiodha
 
 # Triquetra Geinn Fiodha
 
-![triquetra_geinn_fiodha](../assets/img/triquetra_geinn_fiodha.jpg) "triquetra_geinn_fiodha"
+nan
 
-Always see the [Heavy Repping!](https://www.heavyrepping.com) website for current listings and their exact descriptions.
+Always see the DaveDavePicks shop on [Heavy Repping!](https://www.heavyrepping.com/store/shop/davedavepicks/) for current listings and their exact descriptions.
 
 ## General Information
 *Triquetra Geinn Fiodha* = *wedge-shaped wooden triangle*
@@ -21,7 +21,7 @@ wood
 
 | **Plectrum**                                        | **Price 3d printed**   | **Price handmade**   | **Price cast**   |
 |:----------------------------------------------------|:-----------------------|:---------------------|:-----------------|
-| Triquetra Geinn Fiodha                                          | nan               | 12.5             | nan         |
+| Triquetra Geinn Fiodha                                          | -               | 12.5             | -         |
 
 ---
 

@@ -4,9 +4,9 @@ title: Products - Sgian
 
 # Sgian
 
-![sgian](../assets/img/sgian.jpg) "sgian"
+nan
 
-Always see the [Heavy Repping!](https://www.heavyrepping.com) website for current listings and their exact descriptions.
+Always see the DaveDavePicks shop on [Heavy Repping!](https://www.heavyrepping.com/store/shop/davedavepicks/) for current listings and their exact descriptions.
 
 ## General Information
 *Sgian* = *dagger* - bevelled *pointy* with ergo carves

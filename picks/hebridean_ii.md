@@ -4,9 +4,9 @@ title: Products - Hebridean II
 
 # Hebridean II
 
-![hebridean_ii](../assets/img/hebridean_ii.jpg) "hebridean_ii"
+nan
 
-Always see the [Heavy Repping!](https://www.heavyrepping.com) website for current listings and their exact descriptions.
+Always see the DaveDavePicks shop on [Heavy Repping!](https://www.heavyrepping.com/store/shop/davedavepicks/) for current listings and their exact descriptions.
 
 ## General Information
 Bound rounded triangle
@@ -21,7 +21,7 @@ resin
 
 | **Plectrum**                                        | **Price 3d printed**   | **Price handmade**   | **Price cast**   |
 |:----------------------------------------------------|:-----------------------|:---------------------|:-----------------|
-| Hebridean II                                          | 25.0               | nan             | nan         |
+| Hebridean II                                          | 25.0               | -             | -         |
 
 ---
 

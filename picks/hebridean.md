@@ -4,9 +4,9 @@ title: Products - Hebridean
 
 # Hebridean
 
-![hebridean](../assets/img/hebridean.jpg) "hebridean"
+nan
 
-Always see the [Heavy Repping!](https://www.heavyrepping.com) website for current listings and their exact descriptions.
+Always see the DaveDavePicks shop on [Heavy Repping!](https://www.heavyrepping.com/store/shop/davedavepicks/) for current listings and their exact descriptions.
 
 ## General Information
 Bound rounded triangle
@@ -21,7 +21,7 @@ acrylic
 
 | **Plectrum**                                        | **Price 3d printed**   | **Price handmade**   | **Price cast**   |
 |:----------------------------------------------------|:-----------------------|:---------------------|:-----------------|
-| Hebridean                                          | nan               | 30.0             | nan         |
+| Hebridean                                          | -               | 30.0             | -         |
 
 ---
 
