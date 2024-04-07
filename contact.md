@@ -2,6 +2,8 @@
 title: Contact
 ---
 
+{% include menu.html %}
+
 # Contact
 Any questions, feel free!
 
