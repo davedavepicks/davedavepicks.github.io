@@ -1,5 +1,5 @@
 ---
-title: Products
+title: Products - Sgian Mòr
 ---
 
 # Sgian Mòr
@@ -18,6 +18,7 @@ acrylic, resin, epoxy
 
 ## Dimensions
 29.2 mm x 31.7 mm x 6.2 mm (3-4 mm inside carves)
+
 | **Plectrum**                                        | **Price 3d printed**   | **Price handmade**   | **Price cast**   |
 |:----------------------------------------------------|:-----------------------|:---------------------|:-----------------|
 | Sgian Mòr                                          | 15.0               | 25.0             | 15.0         |

@@ -1,5 +1,5 @@
 ---
-title: Products
+title: Products - Hebridean
 ---
 
 # Hebridean
@@ -18,6 +18,7 @@ acrylic
 
 ## Dimensions
 26 mm x 27 mm x 4 mm
+
 | **Plectrum**                                        | **Price 3d printed**   | **Price handmade**   | **Price cast**   |
 |:----------------------------------------------------|:-----------------------|:---------------------|:-----------------|
 | Hebridean                                          | nan               | 30.0             | nan         |

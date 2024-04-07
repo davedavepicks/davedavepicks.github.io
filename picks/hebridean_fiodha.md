@@ -1,5 +1,5 @@
 ---
-title: Products
+title: Products - Hebridean Fiodha
 ---
 
 # Hebridean Fiodha
@@ -18,6 +18,7 @@ wood
 
 ## Dimensions
 26 mm x 27 mm x 4 mm
+
 | **Plectrum**                                        | **Price 3d printed**   | **Price handmade**   | **Price cast**   |
 |:----------------------------------------------------|:-----------------------|:---------------------|:-----------------|
 | Hebridean Fiodha                                          | nan               | 25.0             | nan         |

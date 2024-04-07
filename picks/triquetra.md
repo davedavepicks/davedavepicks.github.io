@@ -1,5 +1,5 @@
 ---
-title: Products
+title: Products - Triquetra
 ---
 
 # Triquetra
@@ -18,6 +18,7 @@ acrylic, resin, epoxy
 
 ## Dimensions
 25.5 mm x 27.2 mm x 4.0 mm
+
 | **Plectrum**                                        | **Price 3d printed**   | **Price handmade**   | **Price cast**   |
 |:----------------------------------------------------|:-----------------------|:---------------------|:-----------------|
 | Triquetra                                          | 12.5               | 17.5             | 12.5         |

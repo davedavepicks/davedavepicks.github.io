@@ -1,5 +1,5 @@
 ---
-title: Products
+title: Products - Sgeilbean (single)
 ---
 
 # Sgeilbean (single)
@@ -18,6 +18,7 @@ resin
 
 ## Dimensions
 18.7 mm x 17.3 mm x 22.6 mm
+
 | **Plectrum**                                        | **Price 3d printed**   | **Price handmade**   | **Price cast**   |
 |:----------------------------------------------------|:-----------------------|:---------------------|:-----------------|
 | Sgeilbean (single)                                          | 12.5               | nan             | nan         |

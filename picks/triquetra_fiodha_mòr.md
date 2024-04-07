@@ -1,5 +1,5 @@
 ---
-title: Products
+title: Products - Triquetra Fiodha Mòr
 ---
 
 # Triquetra Fiodha Mòr
@@ -18,6 +18,7 @@ wood
 
 ## Dimensions
 34 mm x 32 mm x 6 m
+
 | **Plectrum**                                        | **Price 3d printed**   | **Price handmade**   | **Price cast**   |
 |:----------------------------------------------------|:-----------------------|:---------------------|:-----------------|
 | Triquetra Fiodha Mòr                                          | nan               | 12.5             | nan         |

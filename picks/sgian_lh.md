@@ -1,5 +1,5 @@
 ---
-title: Products
+title: Products - Sgian LH
 ---
 
 # Sgian LH
@@ -18,6 +18,7 @@ acrylic, resin, epoxy
 
 ## Dimensions
 24.2 mm x 28.1 mm x 6 mm (3-4 mm inside carves)
+
 | **Plectrum**                                        | **Price 3d printed**   | **Price handmade**   | **Price cast**   |
 |:----------------------------------------------------|:-----------------------|:---------------------|:-----------------|
 | Sgian LH                                          | 15.0               | 25.0             | 15.0         |

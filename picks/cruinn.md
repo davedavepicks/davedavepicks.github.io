@@ -1,5 +1,5 @@
 ---
-title: Products
+title: Products - Cruinn
 ---
 
 # Cruinn
@@ -18,6 +18,7 @@ acrylic, resin, epoxy
 
 ## Dimensions
 24.5 mm x 25.1 mm x 4.0 mm
+
 | **Plectrum**                                        | **Price 3d printed**   | **Price handmade**   | **Price cast**   |
 |:----------------------------------------------------|:-----------------------|:---------------------|:-----------------|
 | Cruinn                                          | 12.5               | 17.5             | 12.5         |

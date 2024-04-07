@@ -1,5 +1,5 @@
 ---
-title: Products
+title: Products - Triquetra Geinn Fiodha
 ---
 
 # Triquetra Geinn Fiodha
@@ -18,6 +18,7 @@ wood
 
 ## Dimensions
 27 mm x 27 mm x 6 mm
+
 | **Plectrum**                                        | **Price 3d printed**   | **Price handmade**   | **Price cast**   |
 |:----------------------------------------------------|:-----------------------|:---------------------|:-----------------|
 | Triquetra Geinn Fiodha                                          | nan               | 12.5             | nan         |

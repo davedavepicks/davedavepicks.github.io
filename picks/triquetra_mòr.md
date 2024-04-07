@@ -1,5 +1,5 @@
 ---
-title: Products
+title: Products - Triquetra Mòr
 ---
 
 # Triquetra Mòr
@@ -18,6 +18,7 @@ acrylic, resin, epoxy
 
 ## Dimensions
 34.1 mm x 32.9 mm x 6.0 mm
+
 | **Plectrum**                                        | **Price 3d printed**   | **Price handmade**   | **Price cast**   |
 |:----------------------------------------------------|:-----------------------|:---------------------|:-----------------|
 | Triquetra Mòr                                          | 12.5               | 17.5             | 12.5         |

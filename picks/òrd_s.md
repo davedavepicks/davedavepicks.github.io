@@ -1,5 +1,5 @@
 ---
-title: Products
+title: Products - Òrd S
 ---
 
 # Òrd S
@@ -18,6 +18,7 @@ resin, epoxy
 
 ## Dimensions
 13.9 mm x 28.2 mm x 17.8 mm, 2.4 mm thick at tip
+
 | **Plectrum**                                        | **Price 3d printed**   | **Price handmade**   | **Price cast**   |
 |:----------------------------------------------------|:-----------------------|:---------------------|:-----------------|
 | Òrd S                                          | 15.0               | 30.0             | 15.0         |

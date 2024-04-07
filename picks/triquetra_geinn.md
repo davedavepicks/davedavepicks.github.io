@@ -1,5 +1,5 @@
 ---
-title: Products
+title: Products - Triquetra Geinn
 ---
 
 # Triquetra Geinn
@@ -18,6 +18,7 @@ acrylic, resin, epoxy
 
 ## Dimensions
 27.8 mm x 27.3 mm x 6.0 mm
+
 | **Plectrum**                                        | **Price 3d printed**   | **Price handmade**   | **Price cast**   |
 |:----------------------------------------------------|:-----------------------|:---------------------|:-----------------|
 | Triquetra Geinn                                          | 12.5               | 17.5             | 12.5         |

@@ -1,5 +1,5 @@
 ---
-title: Products
+title: Products - TriTagh
 ---
 
 # TriTagh
@@ -18,6 +18,7 @@ acrylic, resin, epoxy
 
 ## Dimensions
 29.5 mm x 28.5 mm x 4.0 mm
+
 | **Plectrum**                                        | **Price 3d printed**   | **Price handmade**   | **Price cast**   |
 |:----------------------------------------------------|:-----------------------|:---------------------|:-----------------|
 | TriTagh                                          | 12.5               | 17.5             | 12.5         |

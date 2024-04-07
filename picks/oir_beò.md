@@ -1,5 +1,5 @@
 ---
-title: Products
+title: Products - Oir Beò
 ---
 
 # Oir Beò
@@ -18,6 +18,7 @@ resin, wood
 
 ## Dimensions
 22.6 mm x 24.9 mm x 6.0 mm
+
 | **Plectrum**                                        | **Price 3d printed**   | **Price handmade**   | **Price cast**   |
 |:----------------------------------------------------|:-----------------------|:---------------------|:-----------------|
 | Oir Beò                                          | 10.0               | 12.5             | 10.0         |

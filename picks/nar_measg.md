@@ -1,5 +1,5 @@
 ---
-title: Products
+title: Products - 'Nar Measg
 ---
 
 # 'Nar Measg
@@ -18,6 +18,7 @@ resin
 
 ## Dimensions
 27.4 mm x 26.1 mm x 5.6 mm
+
 | **Plectrum**                                        | **Price 3d printed**   | **Price handmade**   | **Price cast**   |
 |:----------------------------------------------------|:-----------------------|:---------------------|:-----------------|
 | 'Nar Measg                                          | 15.0               | nan             | nan         |

@@ -1,5 +1,5 @@
 ---
-title: Products
+title: Products - Dreag
 ---
 
 # Dreag
@@ -18,6 +18,7 @@ acrylic, resin, epoxy
 
 ## Dimensions
 20.2 mm x 25.5 mm x 6.0 mm
+
 | **Plectrum**                                        | **Price 3d printed**   | **Price handmade**   | **Price cast**   |
 |:----------------------------------------------------|:-----------------------|:---------------------|:-----------------|
 | Dreag                                          | 12.5               | 17.5             | 12.5         |

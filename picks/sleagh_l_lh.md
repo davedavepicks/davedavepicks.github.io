@@ -1,5 +1,5 @@
 ---
-title: Products
+title: Products - Sleagh L LH
 ---
 
 # Sleagh L LH
@@ -18,6 +18,7 @@ resin, epoxy
 
 ## Dimensions
 14.5 mm x 31.7 mm x 21.2 mm, 1.6 mm thick at tip
+
 | **Plectrum**                                        | **Price 3d printed**   | **Price handmade**   | **Price cast**   |
 |:----------------------------------------------------|:-----------------------|:---------------------|:-----------------|
 | Sleagh L LH                                          | 15.0               | nan             | 15.0         |

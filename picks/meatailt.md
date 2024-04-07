@@ -1,5 +1,5 @@
 ---
-title: Products
+title: Products - Meatailt
 ---
 
 # Meatailt
@@ -18,6 +18,7 @@ metal
 
 ## Dimensions
 None
+
 | **Plectrum**                                        | **Price 3d printed**   | **Price handmade**   | **Price cast**   |
 |:----------------------------------------------------|:-----------------------|:---------------------|:-----------------|
 | Meatailt                                          | nan               | 20.0             | nan         |

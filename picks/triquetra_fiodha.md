@@ -1,5 +1,5 @@
 ---
-title: Products
+title: Products - Triquetra Fiodha
 ---
 
 # Triquetra Fiodha
@@ -18,6 +18,7 @@ wood
 
 ## Dimensions
 25 mm x 27 mm x 4 mm
+
 | **Plectrum**                                        | **Price 3d printed**   | **Price handmade**   | **Price cast**   |
 |:----------------------------------------------------|:-----------------------|:---------------------|:-----------------|
 | Triquetra Fiodha                                          | nan               | 12.5             | nan         |

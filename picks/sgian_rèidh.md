@@ -1,5 +1,5 @@
 ---
-title: Products
+title: Products - Sgian Rèidh
 ---
 
 # Sgian Rèidh
@@ -18,6 +18,7 @@ acrylic, resin, epoxy
 
 ## Dimensions
 24.2 mm x 28.1 mm x 4.1 mm
+
 | **Plectrum**                                        | **Price 3d printed**   | **Price handmade**   | **Price cast**   |
 |:----------------------------------------------------|:-----------------------|:---------------------|:-----------------|
 | Sgian Rèidh                                          | 12.5               | 17.5             | 12.5         |

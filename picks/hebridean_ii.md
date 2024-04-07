@@ -1,5 +1,5 @@
 ---
-title: Products
+title: Products - Hebridean II
 ---
 
 # Hebridean II
@@ -18,6 +18,7 @@ resin
 
 ## Dimensions
 25.5 mm x 27.2 mm x 4.0 mm
+
 | **Plectrum**                                        | **Price 3d printed**   | **Price handmade**   | **Price cast**   |
 |:----------------------------------------------------|:-----------------------|:---------------------|:-----------------|
 | Hebridean II                                          | 25.0               | nan             | nan         |

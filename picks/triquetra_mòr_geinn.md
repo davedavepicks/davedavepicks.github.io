@@ -1,5 +1,5 @@
 ---
-title: Products
+title: Products - Triquetra Mòr Geinn
 ---
 
 # Triquetra Mòr Geinn
@@ -18,6 +18,7 @@ acrylic, resin, epoxy
 
 ## Dimensions
 34.6.8 mm x 34.0 mm x 9.0 mm
+
 | **Plectrum**                                        | **Price 3d printed**   | **Price handmade**   | **Price cast**   |
 |:----------------------------------------------------|:-----------------------|:---------------------|:-----------------|
 | Triquetra Mòr Geinn                                          | 12.5               | 17.5             | 12.5         |

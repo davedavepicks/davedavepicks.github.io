@@ -1,5 +1,5 @@
 ---
-title: Products
+title: Products - Sleagh S
 ---
 
 # Sleagh S
@@ -18,6 +18,7 @@ resin, epoxy
 
 ## Dimensions
 14.5 mm x 27.8 mm x 18.2 mm, 1.6 mm thick at tip
+
 | **Plectrum**                                        | **Price 3d printed**   | **Price handmade**   | **Price cast**   |
 |:----------------------------------------------------|:-----------------------|:---------------------|:-----------------|
 | Sleagh S                                          | 15.0               | nan             | 15.0         |

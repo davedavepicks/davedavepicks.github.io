@@ -1,5 +1,5 @@
 ---
-title: Products
+title: Products - Custom
 ---
 
 # Custom
@@ -18,6 +18,7 @@ resin, acrylic, epoxy, wood, metal
 
 ## Dimensions
 None
+
 | **Plectrum**                                        | **Price 3d printed**   | **Price handmade**   | **Price cast**   |
 |:----------------------------------------------------|:-----------------------|:---------------------|:-----------------|
 | Custom                                          | 52.5               | 50.0             | 52.5         |

@@ -1,5 +1,5 @@
 ---
-title: Products
+title: Products - Dheth
 ---
 
 # Dheth
@@ -18,6 +18,7 @@ acrylic, resin, epoxy
 
 ## Dimensions
 22.4 mm x 26.5 mm x 3.6 mm
+
 | **Plectrum**                                        | **Price 3d printed**   | **Price handmade**   | **Price cast**   |
 |:----------------------------------------------------|:-----------------------|:---------------------|:-----------------|
 | Dheth                                          | 12.5               | 17.5             | 12.5         |

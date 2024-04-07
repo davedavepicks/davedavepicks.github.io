@@ -1,5 +1,5 @@
 ---
-title: Products
+title: Products - Sgian Rèidh Mòr
 ---
 
 # Sgian Rèidh Mòr
@@ -18,6 +18,7 @@ acrylic, resin, epoxy
 
 ## Dimensions
 29.2 mm x 31.7 mm x 6.2 mm
+
 | **Plectrum**                                        | **Price 3d printed**   | **Price handmade**   | **Price cast**   |
 |:----------------------------------------------------|:-----------------------|:---------------------|:-----------------|
 | Sgian Rèidh Mòr                                          | 12.5               | 17.5             | 12.5         |
