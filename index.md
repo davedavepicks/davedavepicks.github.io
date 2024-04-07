@@ -24,11 +24,6 @@ DaveDavePicks is part of the [Heavy Repping!](https://www.heavyrepping.com){:tar
 
 ## [Contact](contact.md)
 
-## [Socials](https://www.instagram.com/davedavepicks/){:target="_blank"}
-
-- Instagram: [@davedavepicks](https://www.instagram.com/davedavepicks/){:target="_blank"} (preferred)
-- Facebook: [@davedavepicks](https://www.facebook.com/DaveDavePicks){:target="_blank"}
-
 ---
 
 {% include footer.md %}
