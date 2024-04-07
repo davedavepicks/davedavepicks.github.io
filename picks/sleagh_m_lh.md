@@ -1,7 +1,6 @@
 ---
 title: Products - Sleagh M LH
 ---
-
 # Sleagh M LH
 
 Always see the DaveDavePicks shop on [Heavy Repping!](https://www.heavyrepping.com/store/shop/davedavepicks/) for current listings and their exact descriptions.

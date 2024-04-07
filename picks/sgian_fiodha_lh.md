@@ -1,7 +1,6 @@
 ---
 title: Products - Sgian Fiodha LH
 ---
-
 # Sgian Fiodha LH
 
 Always see the DaveDavePicks shop on [Heavy Repping!](https://www.heavyrepping.com/store/shop/davedavepicks/) for current listings and their exact descriptions.
