@@ -1,7 +1,7 @@
 # Site settings
 title: DaveDavePicks
 description: DaveDavePicks Plectrums and Thumb Picks
-theme: jekyll-theme-midnight
+theme: jekyll-theme-slate
 
 # GitHub Pages settings
 plugins:
