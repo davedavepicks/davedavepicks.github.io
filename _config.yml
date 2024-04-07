@@ -1,6 +1,7 @@
 # Site settings
-title: DaveDavePicks
-description: DaveDavePicks Plectrums and Thumb Picks
+name: DaveDavePicks
+title: null
+description: null
 theme: jekyll-theme-midnight
 
 # GitHub Pages settings
