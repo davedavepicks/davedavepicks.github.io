@@ -12,6 +12,9 @@ For the thumb picks, you'll also need to know your size. See the size chart belo
 
 See below for a list of our regular models. Check out the shop on [Heavy Repping!](https://www.heavyrepping.com/shop/store/davedavepicks) to see what is currently in stock. Drop me a line [here](contact.md) or [@davedavepicks](https://www.instagram.com/davedavepicks/){:target="_blank"} to find out what's in production.
 
+## Price list
+Prices in GBP.
+
 {% include external_price_list.md %}
 
 ---
