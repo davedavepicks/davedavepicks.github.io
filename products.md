@@ -20,5 +20,3 @@ Prices in GBP.
 {% include external_price_list.md %}
 
 ---
-
-{% include footer.md %}

@@ -21,5 +21,3 @@ For stock enquiries, please detail the pick model (and size for thumb picks).
 {% include contact_form.html %}
 
 ---
-
-{% include footer.md %}

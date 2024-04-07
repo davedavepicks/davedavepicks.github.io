@@ -27,5 +27,3 @@ DaveDavePicks is part of the [Heavy Repping!](https://www.heavyrepping.com){:tar
 ## [Contact](contact.md)
 
 ---
-
-{% include footer.md %}
