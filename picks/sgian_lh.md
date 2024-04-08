@@ -10,7 +10,7 @@ Always see the DaveDavePicks shop on [Heavy Repping!](https://www.heavyrepping.c
 ## General Information
 *Sgian* = *dagger* - bevelled *pointy* with ergo carves
 
-The *Sgian* (Scots Gaelic for *dagger* - the knife in a Scotsman's sock at a wedding!).<br/><br/>The *Sgian* features **left-handed** ergonomic carves front and back for thumb and forefinger and a *pointy* tip.<br/><br/>3d printed and cast versions feature DDP and Sgian logos.
+The *Sgian* (Scots Gaelic for *dagger* - the knife in a Scotsman's sock at a wedding!).<br/><br/>The *Sgian LH* features **left-handed** ergonomic carves front and back for thumb and forefinger and a *pointy* tip.<br/><br/>3d printed and cast versions feature DDP and Sgian logos.
 
 ## Materials
 acrylic, resin, epoxy

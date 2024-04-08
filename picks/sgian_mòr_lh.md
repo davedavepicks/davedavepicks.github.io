@@ -8,7 +8,7 @@ Always see the DaveDavePicks shop on [Heavy Repping!](https://www.heavyrepping.c
 ## General Information
 *Sgian Mòr* = *big dagger*
 
-The *Sgian* - Scots Gaelic for *dagger*.<br/><br/>In Scots Gaelic, *Mòr* means *Big* (think Ben Mòr - big mountain!). The *Sgian Mòr* features **left-handed** ergonomic carves front and back for thumb and forefinger, and a *pointy* tip, and is big.<br/><br/>3d printed and cast versions feature DDP and Sgian logos.
+The *Sgian* - Scots Gaelic for *dagger*.<br/><br/>In Scots Gaelic, *Mòr* means *Big* (think Ben Mòr - big mountain!). The *Sgian Mòr LH* features **left-handed** ergonomic carves front and back for thumb and forefinger, and a *pointy* tip, and is big.<br/><br/>3d printed and cast versions feature DDP and Sgian logos.
 
 ## Materials
 acrylic, resin, epoxy
