@@ -1,0 +1,54 @@
+name: Pull content from pick_db (triggered)
+
+on:
+    repository_dispatch:
+      types: [trigger-event]
+
+jobs:
+  run-script:
+    runs-on: ubuntu-latest  # Use the latest Ubuntu runner
+    permissions:
+      contents: write
+    defaults:
+      run:
+        working-directory: /home/runner/work/davedavepicks.github.io/davedavepicks.github.io  # Set the working directory to pick_db/pick_db
+
+    steps:
+      - name: Set git global
+        run: |
+          git config --global user.email "davedavemckay@gmail.com"  # Set the git user email
+          git config --global user.name "davedavemckay"  # Set the git user name
+
+      - uses: actions/checkout@v3  # Checkout the repository
+        with:
+          token: ${{ secrets.PICKS_IO }}
+          repository: davedavepicks/pick_db
+          path: pick_db
+
+
+      - uses: actions/checkout@v3  # Checkout the repository
+        with:
+          repository: davedavepicks/davedavepicks.github.io
+          path: davedavepicks.github.io
+        
+      - name: remove .md files
+        run: |
+          rm davedavepicks.github.io/_includes/external_price_list.md
+          rm davedavepicks.github.io/picks/*.md
+
+      - name: Copy md files
+        run: |
+          cp pick_db/pub/external_price_list.md davedavepicks.github.io/_includes
+          cp pick_db/picks/*.md davedavepicks.github.io/picks
+
+      - name: Stage changes
+        run: |
+          cd davedavepicks.github.io
+          tree -a
+          git add .  
+          git commit -m "Updated from pick_db"  # Commit the changes
+
+      - name: Push changes
+        run: |
+          cd davedavepicks.github.io
+          git push  # Push the changes to the repository
