@@ -3,6 +3,8 @@ title: Products - Custom
 ---
 # Custom
 
+![custom](../../assets/images/custom.jpg "Custom")
+
 Always see the DaveDavePicks shop on [Heavy Repping!](https://www.heavyrepping.com/store/shop/davedavepicks/) for current listings and their exact descriptions.
 
 ## General Information
