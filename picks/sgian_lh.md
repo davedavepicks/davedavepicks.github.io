@@ -3,7 +3,7 @@ title: Products - Sgian LH
 ---
 # Sgian LH
 
-![sgian](assets/images/sgian.jpg) "sgian"
+![sgian](../../assets/images/sgian.jpg) "sgian"
 
 Always see the DaveDavePicks shop on [Heavy Repping!](https://www.heavyrepping.com/store/shop/davedavepicks/) for current listings and their exact descriptions.
 

@@ -3,7 +3,11 @@ title: Products - Sgian
 ---
 # Sgian
 
+<<<<<<< HEAD
 ![sgian](../assets/images/sgian.jpg "Sgian")
+=======
+![sgian](../../assets/images/sgian.jpg) "sgian"
+>>>>>>> 6ab1c8d09a5eb235ffce53a4a48327d59e2ad621
 
 Always see the DaveDavePicks shop on [Heavy Repping!](https://www.heavyrepping.com/store/shop/davedavepicks/) for current listings and their exact descriptions.
 
