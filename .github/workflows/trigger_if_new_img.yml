@@ -1,0 +1,19 @@
+name: Trigger Workflow in pick_db
+
+on:
+    push:
+        paths:
+            - 'assets/images/**'
+
+jobs:
+    trigger_workflow:
+        runs-on: ubuntu-latest
+
+        steps:
+            ## trigger pull from davedavepicks.github.io
+          - name: Repository Dispatch
+            uses: peter-evans/repository-dispatch@v1
+            with:
+              token: ${{ secrets.PICKS_IO }}
+              repository: davedavepicks/pick_db
+              event-type: trigger-event
