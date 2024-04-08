@@ -14,7 +14,7 @@ For stock enquiries, please detail the pick model (and size for thumb picks).
 
 ## Socials
 
-- Instagram: [@davedavepicks](https://www.instagram.com/davedavepicks/){:target="_blank"}
-- Facebook: [@davedavepicks](https://www.facebook.com/DaveDavePicks){:target="_blank"}
+- Instagram: [@davedavepicks](https://www.instagram.com/davedavepicks/)
+- Facebook: [@davedavepicks](https://www.facebook.com/DaveDavePicks)
 
 ---
