@@ -36,6 +36,12 @@ jobs:
           rm davedavepicks.github.io/_includes/external_price_list.md
           rm davedavepicks.github.io/picks/*.md
 
+      - name: Stage changes
+        run: |
+          cd davedavepicks.github.io
+          git add .  
+          git commit -m "Removed content"  # Commit the changes
+
       - name: Copy md files
         run: |
           cp pick_db/pub/external_price_list.md davedavepicks.github.io/_includes
@@ -44,7 +50,6 @@ jobs:
       - name: Stage changes
         run: |
           cd davedavepicks.github.io
-          tree -a
           git add .  
           git commit -m "Updated from pick_db"  # Commit the changes
 
