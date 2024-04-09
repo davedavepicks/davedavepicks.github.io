@@ -3,6 +3,8 @@ title: Products - Dreag
 ---
 # Dreag
 
+[![dreag](../../assets/images/dreag.jpg "Dreag")](/picks/dreag)
+
 Always see the DaveDavePicks shop on [Heavy Repping!](https://www.heavyrepping.com/store/shop/davedavepicks/) for current listings and their exact descriptions.
 
 ## General Information
