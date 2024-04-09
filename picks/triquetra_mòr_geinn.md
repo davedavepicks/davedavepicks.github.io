@@ -3,6 +3,8 @@ title: Products - Triquetra Mòr Geinn
 ---
 # Triquetra Mòr Geinn
 
+[![triquetra_mòr_geinn](../../assets/images/triquetra_mòr_geinn.jpg "Triquetra_mòr_geinn")](/picks/triquetra_mòr_geinn)
+
 Always see the DaveDavePicks shop on [Heavy Repping!](https://www.heavyrepping.com/store/shop/davedavepicks/) for current listings and their exact descriptions.
 
 ## General Information
@@ -14,7 +16,7 @@ Based on the Triquetra Standard, a *346* shape bevelled triangle. The *Triquetra
 acrylic, resin, epoxy
 
 ## Dimensions
-34.6.8 mm x 34.0 mm x 9.0 mm
+34.6 mm x 34.0 mm x 9.0 mm
 
 | **Plectrum**                                        | **Price 3d printed**   | **Price handmade**   | **Price cast**   |
 |:----------------------------------------------------|:-----------------------|:---------------------|:-----------------|

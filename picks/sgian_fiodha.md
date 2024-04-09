@@ -3,7 +3,7 @@ title: Products - Sgian Fiodha
 ---
 # Sgian Fiodha
 
-![sgian_fiodha](../../assets/images/sgian_fiodha.jpg "Sgian_fiodha")
+[![sgian_fiodha](../../assets/images/sgian_fiodha.jpg "Sgian_fiodha")](/picks/sgian_fiodha)
 
 Always see the DaveDavePicks shop on [Heavy Repping!](https://www.heavyrepping.com/store/shop/davedavepicks/) for current listings and their exact descriptions.
 

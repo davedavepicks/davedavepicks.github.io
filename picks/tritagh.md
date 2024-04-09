@@ -3,7 +3,7 @@ title: Products - TriTagh
 ---
 # TriTagh
 
-![tritagh](../../assets/images/tritagh.jpg "Tritagh")
+[![tritagh](../../assets/images/tritagh.jpg "Tritagh")](/picks/tritagh)
 
 Always see the DaveDavePicks shop on [Heavy Repping!](https://www.heavyrepping.com/store/shop/davedavepicks/) for current listings and their exact descriptions.
 

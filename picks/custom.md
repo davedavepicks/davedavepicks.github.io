@@ -3,7 +3,7 @@ title: Products - Custom
 ---
 # Custom
 
-![custom](../../assets/images/custom.jpg "Custom")
+[![custom](../../assets/images/custom.jpg "Custom")](/picks/custom)
 
 Always see the DaveDavePicks shop on [Heavy Repping!](https://www.heavyrepping.com/store/shop/davedavepicks/) for current listings and their exact descriptions.
 

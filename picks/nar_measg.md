@@ -3,6 +3,8 @@ title: Products - 'Nar Measg
 ---
 # 'Nar Measg
 
+[![nar_measg](../../assets/images/nar_measg.jpg "Nar_measg")](/picks/nar_measg)
+
 Always see the DaveDavePicks shop on [Heavy Repping!](https://www.heavyrepping.com/store/shop/davedavepicks/) for current listings and their exact descriptions.
 
 ## General Information
