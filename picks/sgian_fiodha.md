@@ -10,7 +10,7 @@ Always see the DaveDavePicks shop on [Heavy Repping!](https://www.heavyrepping.c
 ## General Information
 *Sgian Fiodha* = *wooden dagger*
 
-The *Sgian* - Scots Gaelic for *dagger*.<br/><br/>The *Sgian Fiodha* (*wooden dagger*) features **right-handed** ergonomic carves front and back for thumb and forefinger and a *pointy* tip of the *Sgian*.<br/><br/>Handmade from a range of woods.
+The *Sgian* - Scots Gaelic for *dagger*.<br/><br/>The *Sgian Fiodha* (*wooden dagger*) features **right-handed** ergonomic carves front and back for thumb and forefinger and a *pointy* tip of the *Sgian*.<br/><br/>Handmade from a range of woods, e.g., rosewood, padauk or katalox.
 
 ## Materials
 wood
