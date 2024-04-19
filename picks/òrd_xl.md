@@ -3,8 +3,6 @@ title: Products - Òrd XL
 ---
 # Òrd XL
 
-[![òrd_xl](../../assets/images/òrd_xl.jpg "Òrd_xl")](/picks/òrd_xl)
-
 Always see the DaveDavePicks shop on [Heavy Repping!](https://www.heavyrepping.com/store/shop/davedavepicks/) for current listings and their exact descriptions.
 
 ## General Information

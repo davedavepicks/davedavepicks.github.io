@@ -3,8 +3,6 @@ title: Products - Oir Beò
 ---
 # Oir Beò
 
-[![oir_beò](../../assets/images/oir_beò.jpg "Oir_beò")](/picks/oir_beò)
-
 Always see the DaveDavePicks shop on [Heavy Repping!](https://www.heavyrepping.com/store/shop/davedavepicks/) for current listings and their exact descriptions.
 
 ## General Information

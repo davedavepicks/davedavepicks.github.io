@@ -3,8 +3,6 @@ title: Products - Triquetra
 ---
 # Triquetra
 
-[![triquetra](../../assets/images/triquetra.jpg "Triquetra")](/picks/triquetra)
-
 Always see the DaveDavePicks shop on [Heavy Repping!](https://www.heavyrepping.com/store/shop/davedavepicks/) for current listings and their exact descriptions.
 
 ## General Information
