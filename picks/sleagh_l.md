@@ -14,7 +14,7 @@ The Sleagh (Scots Gaelic for Spear) is a thumb pick made for speed, while retain
 resin, epoxy
 
 ## Dimensions
-14.5 mm x 31.7 mm x 21.2 mm, 1.6 mm thick at tip
+14.5 mm x 31.7 mm x 21.2 mm, 1.6 mm thick at tip.
 
 | **Plectrum**                                        | **Price 3d printed**   | **Price handmade**   | **Price cast**   |
 |:----------------------------------------------------|:-----------------------|:---------------------|:-----------------|

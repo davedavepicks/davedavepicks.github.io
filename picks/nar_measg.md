@@ -16,7 +16,7 @@ The *'Nar Measg* is a pick made from a 3d-printing resin, details in acrylic pai
 resin
 
 ## Dimensions
-27.4 mm x 26.1 mm x 5.6 mm
+27.4 mm x 26.1 mm x 5.6 mm.<br/><br/>Always check individual listings on the [DaveDavePicks Heavy Repping! shop](https://www.heavyrepping.com/shop/store/davedavepicks/) for exact measurements.
 
 | **Plectrum**                                        | **Price 3d printed**   | **Price handmade**   | **Price cast**   |
 |:----------------------------------------------------|:-----------------------|:---------------------|:-----------------|

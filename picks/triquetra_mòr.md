@@ -16,7 +16,7 @@ Based on the Triquetra Standard, a *346* shape bevelled triangle. The Triquetra 
 acrylic, resin, epoxy
 
 ## Dimensions
-34.1 mm x 32.9 mm x 6.0 mm
+34.1 mm x 32.9 mm x 6.0 mm.<br/><br/>Always check individual listings on the [DaveDavePicks Heavy Repping! shop](https://www.heavyrepping.com/shop/store/davedavepicks/) for exact measurements.
 
 | **Plectrum**                                        | **Price 3d printed**   | **Price handmade**   | **Price cast**   |
 |:----------------------------------------------------|:-----------------------|:---------------------|:-----------------|

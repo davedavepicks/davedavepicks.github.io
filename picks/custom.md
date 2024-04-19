@@ -16,7 +16,7 @@ Something entirely custom, handmade using any plastic, wood, metal, or 3d printe
 resin, acrylic, epoxy, wood, metal
 
 ## Dimensions
--
+Dimensions are up for discussion and dependent on choice of material.
 
 | **Plectrum**                                        | **Price 3d printed**   | **Price handmade**   | **Price cast**   |
 |:----------------------------------------------------|:-----------------------|:---------------------|:-----------------|

@@ -16,7 +16,7 @@ The *Oir Beò* came from a wooden pick made with broken olive wood burl, which h
 resin, wood
 
 ## Dimensions
-22.6 mm x 24.9 mm x 6.0 mm
+22.6 mm x 24.9 mm x 6.0 mm.<br/><br/>Always check individual listings on the [DaveDavePicks Heavy Repping! shop](https://www.heavyrepping.com/shop/store/davedavepicks/) for exact measurements.
 
 | **Plectrum**                                        | **Price 3d printed**   | **Price handmade**   | **Price cast**   |
 |:----------------------------------------------------|:-----------------------|:---------------------|:-----------------|

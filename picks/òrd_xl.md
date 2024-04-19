@@ -3,6 +3,8 @@ title: Products - Òrd XL
 ---
 # Òrd XL
 
+[![òrd_xl](../../assets/images/òrd_xl.jpg "Òrd_xl")](/picks/òrd_xl)
+
 Always see the DaveDavePicks shop on [Heavy Repping!](https://www.heavyrepping.com/store/shop/davedavepicks/) for current listings and their exact descriptions.
 
 ## General Information
@@ -14,7 +16,7 @@ The Òrd (Scots Gaelic for Hammer) is the brain-child of Ben Smith of Andertons 
 resin, epoxy
 
 ## Dimensions
-13.9 mm x 34.6 mm x 22.4 mm, 2.4 mm thick at tip
+13.9 mm x 34.6 mm x 22.4 mm, 2.4 mm thick at tip.
 
 | **Plectrum**                                        | **Price 3d printed**   | **Price handmade**   | **Price cast**   |
 |:----------------------------------------------------|:-----------------------|:---------------------|:-----------------|

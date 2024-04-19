@@ -16,7 +16,7 @@ The *Sgian* - Scots Gaelic for *dagger*.<br/><br/>In Scots Gaelic, *Sgian Rèidh
 acrylic, resin, epoxy
 
 ## Dimensions
-29.2 mm x 31.7 mm x 6.2 mm
+29.2 mm x 31.7 mm x 6.2 mm.<br/><br/>Always check individual listings on the [DaveDavePicks Heavy Repping! shop](https://www.heavyrepping.com/shop/store/davedavepicks/) for exact measurements.
 
 | **Plectrum**                                        | **Price 3d printed**   | **Price handmade**   | **Price cast**   |
 |:----------------------------------------------------|:-----------------------|:---------------------|:-----------------|

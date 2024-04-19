@@ -3,8 +3,6 @@ title: Products - Sgian Fiodha LH
 ---
 # Sgian Fiodha LH
 
-[![sgian_fiodha](../../assets/images/sgian_fiodha.jpg "Sgian_fiodha")](/picks/sgian_fiodha)
-
 Always see the DaveDavePicks shop on [Heavy Repping!](https://www.heavyrepping.com/store/shop/davedavepicks/) for current listings and their exact descriptions.
 
 ## General Information
@@ -16,7 +14,7 @@ The *Sgian* - Scots Gaelic for *dagger*.<br/><br/>The *Sgian Fiodha LH* (*wooden
 wood
 
 ## Dimensions
-24.2 mm x 28.1 mm x 6 mm (3-4 mm inside carves)
+24.2 mm x 28.1 mm x 6 mm (3-4 mm inside carves).<br/><br/>Always check individual listings on the [DaveDavePicks Heavy Repping! shop](https://www.heavyrepping.com/shop/store/davedavepicks/) for exact measurements.
 
 | **Plectrum**                                        | **Price 3d printed**   | **Price handmade**   | **Price cast**   |
 |:----------------------------------------------------|:-----------------------|:---------------------|:-----------------|

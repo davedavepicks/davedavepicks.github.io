@@ -16,7 +16,7 @@ The original *bound* plectrum, named in an Instagram competition - wooden versio
 wood
 
 ## Dimensions
-26 mm x 27 mm x 4 mm
+26 mm x 27 mm x 4 mm.<br/><br/>Always check individual listings on the [DaveDavePicks Heavy Repping! shop](https://www.heavyrepping.com/shop/store/davedavepicks/) for exact measurements.
 
 | **Plectrum**                                        | **Price 3d printed**   | **Price handmade**   | **Price cast**   |
 |:----------------------------------------------------|:-----------------------|:---------------------|:-----------------|

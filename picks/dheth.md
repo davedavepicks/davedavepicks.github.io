@@ -16,7 +16,7 @@ A take on the ubiquitous *351* with and off-set vibe. Articulate and comfortable
 acrylic, resin, epoxy
 
 ## Dimensions
-22.4 mm x 26.5 mm x 3.6 mm
+22.4 mm x 26.5 mm x 3.6 mm.<br/><br/>Always check individual listings on the [DaveDavePicks Heavy Repping! shop](https://www.heavyrepping.com/shop/store/davedavepicks/) for exact measurements.
 
 | **Plectrum**                                        | **Price 3d printed**   | **Price handmade**   | **Price cast**   |
 |:----------------------------------------------------|:-----------------------|:---------------------|:-----------------|

@@ -14,7 +14,7 @@ The *Triquetra* is the DaveDavePicks take on the *346*. Featuring bevelled sides
 wood
 
 ## Dimensions
-25 mm x 27 mm x 4 mm
+25 mm x 27 mm x 4 mm.<br/><br/>Always check individual listings on the [DaveDavePicks Heavy Repping! shop](https://www.heavyrepping.com/shop/store/davedavepicks/) for exact measurements.
 
 | **Plectrum**                                        | **Price 3d printed**   | **Price handmade**   | **Price cast**   |
 |:----------------------------------------------------|:-----------------------|:---------------------|:-----------------|

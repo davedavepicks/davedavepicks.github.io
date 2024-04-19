@@ -16,7 +16,7 @@ The *Sgian* - Scots Gaelic for *dagger*.<br/><br/>The *Sgian Fiodha* (*wooden da
 wood
 
 ## Dimensions
-24.2 mm x 28.1 mm x 6 mm (3-4 mm inside carves)
+24.2 mm x 28.1 mm x 6 mm (3-4 mm inside carves).<br/><br/>Always check individual listings on the [DaveDavePicks Heavy Repping! shop](https://www.heavyrepping.com/shop/store/davedavepicks/) for exact measurements.
 
 | **Plectrum**                                        | **Price 3d printed**   | **Price handmade**   | **Price cast**   |
 |:----------------------------------------------------|:-----------------------|:---------------------|:-----------------|

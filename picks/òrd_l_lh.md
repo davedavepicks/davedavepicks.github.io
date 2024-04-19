@@ -14,7 +14,7 @@ The Òrd (Scots Gaelic for Hammer) is the brain-child of Ben Smith of Andertons 
 resin, epoxy
 
 ## Dimensions
-13.9 mm x 31.3 mm x 20.8 mm, 2.4 mm thick at tip
+13.9 mm x 31.3 mm x 20.8 mm, 2.4 mm thick at tip.
 
 | **Plectrum**                                        | **Price 3d printed**   | **Price handmade**   | **Price cast**   |
 |:----------------------------------------------------|:-----------------------|:---------------------|:-----------------|

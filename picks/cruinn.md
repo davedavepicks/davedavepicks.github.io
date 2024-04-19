@@ -16,7 +16,7 @@ A small stubbed pick with a broad, rounded tip. Great for strumming and for powe
 acrylic, resin, epoxy
 
 ## Dimensions
-24.5 mm x 25.1 mm x 4.0 mm
+24.5 mm x 25.1 mm x 4.0 mm.<br/><br/>Always check individual listings on the [DaveDavePicks Heavy Repping! shop](https://www.heavyrepping.com/shop/store/davedavepicks/) for exact measurements.
 
 | **Plectrum**                                        | **Price 3d printed**   | **Price handmade**   | **Price cast**   |
 |:----------------------------------------------------|:-----------------------|:---------------------|:-----------------|

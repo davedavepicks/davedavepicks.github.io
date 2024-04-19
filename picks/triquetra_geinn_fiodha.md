@@ -14,7 +14,7 @@ Based on the Triquetra Standard, a *346* shape bevelled triangle. The Triquetra 
 wood
 
 ## Dimensions
-27 mm x 27 mm x 6 mm
+27 mm x 27 mm x 6 mm.<br/><br/>Always check individual listings on the [DaveDavePicks Heavy Repping! shop](https://www.heavyrepping.com/shop/store/davedavepicks/) for exact measurements.
 
 | **Plectrum**                                        | **Price 3d printed**   | **Price handmade**   | **Price cast**   |
 |:----------------------------------------------------|:-----------------------|:---------------------|:-----------------|
