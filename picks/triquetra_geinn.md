@@ -3,6 +3,8 @@ title: Products - Triquetra Geinn
 ---
 # Triquetra Geinn
 
+[![triquetra_geinn](../../assets/images/triquetra_geinn.jpg "Triquetra_geinn")](/picks/triquetra_geinn)
+
 Always see the DaveDavePicks shop on [Heavy Repping!](https://www.heavyrepping.com/shop/store/davedavepicks/) for current listings and their exact descriptions.
 
 ## General Information
