@@ -3,7 +3,7 @@ title: Products - Sgian Mòr LH
 ---
 # Sgian Mòr LH
 
-Always see the DaveDavePicks shop on [Heavy Repping!](https://www.heavyrepping.com/store/shop/davedavepicks/) for current listings and their exact descriptions.
+Always see the DaveDavePicks shop on [Heavy Repping!](https://www.heavyrepping.com/shop/store/davedavepicks/) for current listings and their exact descriptions.
 
 ## General Information
 *Sgian Mòr* = *big dagger*

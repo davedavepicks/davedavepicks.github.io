@@ -5,7 +5,7 @@ title: Products - Targe
 
 [![targe](../../assets/images/targe.jpg "Targe")](/picks/targe)
 
-Always see the DaveDavePicks shop on [Heavy Repping!](https://www.heavyrepping.com/store/shop/davedavepicks/) for current listings and their exact descriptions.
+Always see the DaveDavePicks shop on [Heavy Repping!](https://www.heavyrepping.com/shop/store/davedavepicks/) for current listings and their exact descriptions.
 
 ## General Information
 *Targe* = *Shield* circular pick
@@ -20,7 +20,7 @@ resin
 
 | **Plectrum**                                        | **Price 3d printed**   | **Price handmade**   | **Price cast**   |
 |:----------------------------------------------------|:-----------------------|:---------------------|:-----------------|
-| Targe                                          | -               | 22.5             | -         |
+| Targe                                          | 15.0               | -             | -         |
 
 ---
 

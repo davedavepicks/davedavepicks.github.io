@@ -3,7 +3,7 @@ title: Products - Sleagh M
 ---
 # Sleagh M
 
-Always see the DaveDavePicks shop on [Heavy Repping!](https://www.heavyrepping.com/store/shop/davedavepicks/) for current listings and their exact descriptions.
+Always see the DaveDavePicks shop on [Heavy Repping!](https://www.heavyrepping.com/shop/store/davedavepicks/) for current listings and their exact descriptions.
 
 ## General Information
 Sleagh Thumb Pick<br/><br/>**Right-handed, Size M**

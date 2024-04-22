@@ -5,7 +5,7 @@ title: Products - Triquetra Mòr Geinn
 
 [![triquetra_mòr_geinn](../../assets/images/triquetra_mòr_geinn.jpg "Triquetra_mòr_geinn")](/picks/triquetra_mòr_geinn)
 
-Always see the DaveDavePicks shop on [Heavy Repping!](https://www.heavyrepping.com/store/shop/davedavepicks/) for current listings and their exact descriptions.
+Always see the DaveDavePicks shop on [Heavy Repping!](https://www.heavyrepping.com/shop/store/davedavepicks/) for current listings and their exact descriptions.
 
 ## General Information
 *Triquetra Mòr Geinn* = *big wedge-shaped triangle*
