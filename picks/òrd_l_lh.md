@@ -3,6 +3,8 @@ title: Products - Òrd L LH
 ---
 # Òrd L LH
 
+[![òrd_l_lh](../../assets/images/òrd_l_lh.jpg "Òrd_l_lh")](/picks/òrd_l_lh)
+
 Always see the DaveDavePicks shop on [Heavy Repping!](https://www.heavyrepping.com/shop/store/davedavepicks/) for current listings and their exact descriptions.
 
 ## General Information

@@ -3,6 +3,8 @@ title: Products - Sleagh XL
 ---
 # Sleagh XL
 
+[![sleagh_xl](../../assets/images/sleagh_xl.jpg "Sleagh_xl")](/picks/sleagh_xl)
+
 Always see the DaveDavePicks shop on [Heavy Repping!](https://www.heavyrepping.com/shop/store/davedavepicks/) for current listings and their exact descriptions.
 
 ## General Information

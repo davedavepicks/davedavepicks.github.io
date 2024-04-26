@@ -3,6 +3,8 @@ title: Products - Òrd M
 ---
 # Òrd M
 
+[![òrd_m](../../assets/images/òrd_m.jpg "Òrd_m")](/picks/òrd_m)
+
 Always see the DaveDavePicks shop on [Heavy Repping!](https://www.heavyrepping.com/shop/store/davedavepicks/) for current listings and their exact descriptions.
 
 ## General Information

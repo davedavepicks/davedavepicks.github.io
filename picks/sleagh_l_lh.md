@@ -3,6 +3,8 @@ title: Products - Sleagh L LH
 ---
 # Sleagh L LH
 
+[![sleagh_l_lh](../../assets/images/sleagh_l_lh.jpg "Sleagh_l_lh")](/picks/sleagh_l_lh)
+
 Always see the DaveDavePicks shop on [Heavy Repping!](https://www.heavyrepping.com/shop/store/davedavepicks/) for current listings and their exact descriptions.
 
 ## General Information
