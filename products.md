@@ -13,8 +13,6 @@ See below for a list of our regular models. Check out the shop on [Heavy Repping
 
 ## Price list
 
-Prices in GBP.
-
 {% include external_price_list.md %}
 
 
