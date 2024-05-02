@@ -20,7 +20,7 @@ Dimensions are up for discussion and dependent on choice of material.
 
 | **Plectrum**                                        | **Price 3d printed**   | **Price handmade**   | **Price cast**   |
 |:----------------------------------------------------|:-----------------------|:---------------------|:-----------------|
-| Custom                                          | 52.5               | 50.0             | 52.5         |
+| Custom                                          | 52.50               | 50.00             | 52.50         |
 
 ---
 

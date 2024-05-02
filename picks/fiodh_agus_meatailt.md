@@ -20,7 +20,7 @@ Always check individual listings on the [DaveDavePicks Heavy Repping! shop](http
 
 | **Plectrum**                                        | **Price 3d printed**   | **Price handmade**   | **Price cast**   |
 |:----------------------------------------------------|:-----------------------|:---------------------|:-----------------|
-| Fiodh agus Meatailt                                          | -               | 30.0             | -         |
+| Fiodh agus Meatailt                                          | -               | 30.00             | -         |
 
 ---
 

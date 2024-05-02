@@ -20,7 +20,7 @@ acrylic, resin, epoxy
 
 | **Plectrum**                                        | **Price 3d printed**   | **Price handmade**   | **Price cast**   |
 |:----------------------------------------------------|:-----------------------|:---------------------|:-----------------|
-| Triquetra Geinn                                          | 12.5               | 17.5             | 12.5         |
+| Triquetra Geinn                                          | 12.50               | 17.50             | 12.50         |
 
 ---
 
