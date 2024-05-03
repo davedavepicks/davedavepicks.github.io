@@ -1,7 +1,11 @@
 ---
 title: Home
 ---
-## DaveDavePicks
+## News
+
+The new [Heavy Repping!](https://heavyrepping.com) site has launched! The HR! Web Team have been working hard behind the scenes to re-launch the site, which gives the store a new look for visitors and a new back-end for the makers. Meanwhile JTD himself has been creating his own line of plectra for the first time, and serveral HR! Guild makers (including DaveDavePicks) are working to ready their shops. Haste ye there immediate! All hail the Plectroverse 🙌 🎸 ⛏️ 🌌
+
+## About
 
 Handmade and hand-finished 3d-printed and cast plectrums and thumb picks, made from the finest materials for tone, durability and beauty. We are passionate about providing high-quality plectrums for guitarists of all levels. Whether you're a beginner or a seasoned pro, we have the perfect plectrum for you.
 
