@@ -3,6 +3,12 @@ title: Home
 ---
 ## News
 
+### New Labels and Stickers
+
+![Front and back of labels on the left, black and white DaveDavePicks stickers on the right.](/assets/images/news.png "Front and back of labels on the left, black and white DaveDavePicks stickers on the right.")
+
+### Heavy Repping! Re-launch
+
 The new [Heavy Repping!](https://heavyrepping.com) site has launched! The HR! Web Team have been working hard behind the scenes to re-launch the site, which gives the store a new look for visitors and a new back-end for the makers. Meanwhile JTD himself has been creating his own line of plectra for the first time, and serveral HR! Guild makers (including DaveDavePicks) are working to ready their shops. Haste ye there immediate! All hail the Plectroverse 🙌 🎸 ⛏️ 🌌
 
 ## About
