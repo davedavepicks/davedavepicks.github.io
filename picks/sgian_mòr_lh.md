@@ -5,7 +5,7 @@ title: Products - Sgian Mòr LH
 
 [![sgian_mòr_lh](../../assets/images/sgian_mòr_lh.jpg "Sgian_mòr_lh")](/picks/sgian_mòr_lh)
 
-Always see the DaveDavePicks shop on [Heavy Repping!](https://www.heavyrepping.com/shop/store/davedavepicks/) for current listings and their exact descriptions.
+Always see the DaveDavePicks shop on [Heavy Repping!](https://www.heavyrepping.com/shop/store/davedavepicks/) for current listings and their exact descriptions. Click [here](https://heavyrepping.com/davedavepicks/?s=Sgian&post_type=product) to see current listings of this and related models.
 
 ## General Information
 *Sgian Mòr* = *big dagger*

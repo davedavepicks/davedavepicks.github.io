@@ -5,7 +5,7 @@ title: Products - Sleagh L
 
 [![sleagh_l](../../assets/images/sleagh_l.jpg "Sleagh_l")](/picks/sleagh_l)
 
-Always see the DaveDavePicks shop on [Heavy Repping!](https://www.heavyrepping.com/shop/store/davedavepicks/) for current listings and their exact descriptions.
+Always see the DaveDavePicks shop on [Heavy Repping!](https://www.heavyrepping.com/shop/store/davedavepicks/) for current listings and their exact descriptions. Click [here](https://heavyrepping.com/davedavepicks/?s=Sleagh&post_type=product) to see current listings of this and related models.
 
 ## General Information
 Sleagh Thumb Pick<br/><br/>**Right-handed, Size L**

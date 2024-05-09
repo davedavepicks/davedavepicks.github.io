@@ -5,7 +5,7 @@ title: Products - Òrd S
 
 [![òrd_s](../../assets/images/òrd_s.jpg "Òrd_s")](/picks/òrd_s)
 
-Always see the DaveDavePicks shop on [Heavy Repping!](https://www.heavyrepping.com/shop/store/davedavepicks/) for current listings and their exact descriptions.
+Always see the DaveDavePicks shop on [Heavy Repping!](https://www.heavyrepping.com/shop/store/davedavepicks/) for current listings and their exact descriptions. Click [here](https://heavyrepping.com/davedavepicks/?s=Òrd&post_type=product) to see current listings of this and related models.
 
 ## General Information
 Ben Smith Signature Òrd Thumb Pick **Right-handed, Size S**

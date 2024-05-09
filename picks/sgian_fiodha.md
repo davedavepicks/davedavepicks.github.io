@@ -5,7 +5,7 @@ title: Products - Sgian Fiodha
 
 [![sgian_fiodha](../../assets/images/sgian_fiodha.jpg "Sgian_fiodha")](/picks/sgian_fiodha)
 
-Always see the DaveDavePicks shop on [Heavy Repping!](https://www.heavyrepping.com/shop/store/davedavepicks/) for current listings and their exact descriptions.
+Always see the DaveDavePicks shop on [Heavy Repping!](https://www.heavyrepping.com/shop/store/davedavepicks/) for current listings and their exact descriptions. Click [here](https://heavyrepping.com/davedavepicks/?s=Sgian&post_type=product) to see current listings of this and related models.
 
 ## General Information
 *Sgian Fiodha* = *wooden dagger*

@@ -5,7 +5,7 @@ title: Products - Sgeilbean Set
 
 [![sgeilbean_set](../../assets/images/sgeilbean_set.jpg "Sgeilbean_set")](/picks/sgeilbean_set)
 
-Always see the DaveDavePicks shop on [Heavy Repping!](https://www.heavyrepping.com/shop/store/davedavepicks/) for current listings and their exact descriptions.
+Always see the DaveDavePicks shop on [Heavy Repping!](https://www.heavyrepping.com/shop/store/davedavepicks/) for current listings and their exact descriptions. Click [here](https://heavyrepping.com/davedavepicks/?s=Sgeilbean&post_type=product) to see current listings of this and related models.
 
 ## General Information
 Finger picks (set of 3)
