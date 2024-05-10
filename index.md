@@ -5,7 +5,9 @@ title: Home
 
 ### New Labels and Stickers
 
-![Front and back of labels on the left, black and white DaveDavePicks stickers on the right.](/assets/images/news.png "Front and back of labels on the left, black and white DaveDavePicks stickers on the right.")
+![Front and back of labels for the òrd on the left, black and white DaveDavePicks stickers on the right.](/assets/images/news.png "Front and back of labels for the òrd on the left, black and white DaveDavePicks stickers on the right.")
+
+New stickers are on the way from [StickerApp](https://www.stickerapp.co.uk) (right) and labels (left), which will be printed at DaveDavePicks HQ, have been designed to go with every pick model.
 
 ### Heavy Repping! Re-launch
 
