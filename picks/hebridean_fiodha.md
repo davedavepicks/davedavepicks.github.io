@@ -10,7 +10,7 @@ Always see the DaveDavePicks shop on [Heavy Repping!](https://www.heavyrepping.c
 ## General Information
 Bound wooden rounded triangle
 
-The original *bound* plectrum, named in an Instagram competition - wooden version. Handmade from two different woods and requiring precision positive and negative curves to allow the parts to come together. This takes time... See The Hebridean II for the 3d-printed version, that's equally awesome and much less time consuming to make!
+The original *bound* plectrum - based on the DaveDavePicks Triquetra and named after the Scottish Hebridean Isles in an Instagram competition - wooden version. Handmade from two different woods and requiring precision positive and negative curves to allow the parts to come together. This takes time... See The Hebridean II for the 3d-printed version, that's equally awesome and much less time consuming to make!
 
 ## Materials
 wood
