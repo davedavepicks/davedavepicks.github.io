@@ -25,8 +25,10 @@ Handmade and hand-finished 3d-printed and cast plectrums and thumb picks, made f
 
 ## Products
 
-Check out our [wide range](products.md) of plectrums and thumb picks, available in various materials, thicknesses, and designs. 
-<br>Our methods and materials are:
+Check out our [wide range](products.md) of plectrums and thumb picks, available in various materials, thicknesses, and designs.
+
+Our methods and materials are:
+
 - 3d printed
   - ABS-like UV resin in clear, transparent green, aqua, white or black
 - Cast in handmade silicone moulds
