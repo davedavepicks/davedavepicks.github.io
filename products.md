@@ -9,7 +9,7 @@ For the thumb picks, you'll also need to know your size. See the size chart belo
 
 ![Thumb pick size guide](/assets/images/thumb_pick_size_guide.png "Thumb pick size guide")
 
-See below for a list of our regular models. Check out the shop on [Heavy Repping!](https://www.heavyrepping.com/davedavepicks) to see what is currently in stock. Drop me a line [here](contact.md) or [@davedavepicks](https://www.instagram.com/davedavepicks/) to find out what's in production.
+See below for a list of our regular models. Check out the shop on [Heavy Repping!](https://heavyrepping.com/davedavepicks/shop/) to see what is currently in stock. Drop me a line [here](contact.md) or [@davedavepicks](https://www.instagram.com/davedavepicks/) to find out what's in production.
 
 ## Price list
 
