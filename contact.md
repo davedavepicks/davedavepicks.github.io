@@ -13,9 +13,8 @@ For stock enquiries, please detail the pick model (and size for thumb picks).
 ## Web form
 
 {% include contact_form.html %}
-<br/>
 
-## Other ways
+## Other contact methods
 
 - Email: [dave@davedavepicks.com](mailto:dave@davedavepicks.com)
 - Instagram: [@davedavepicks](https://www.instagram.com/davedavepicks/)
