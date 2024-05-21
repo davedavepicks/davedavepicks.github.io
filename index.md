@@ -3,12 +3,6 @@ title: Home
 ---
 ## News
 
-### DaveDavePicks News on Heavy Repping
-
-I will be using the [DaveDavePicks](https://heavyrepping.com/davedavepicks/) homepage on [Heavy Repping](https://heavyrepping.com/) to post short blogs.
-
-Also see my [Instagram](https://www.instagram.com/davedavepicks/) for the latest posts and stories.
-
 ### New Labels and Stickers
 
 ![Front and back of labels for the òrd on the left, black and white DaveDavePicks stickers on the right.](/assets/images/news.png "Front and back of labels for the òrd on the left, black and white DaveDavePicks stickers on the right.")
