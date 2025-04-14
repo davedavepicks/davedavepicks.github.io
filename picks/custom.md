@@ -3,7 +3,7 @@ title: Products - Custom
 ---
 # Custom
 
-[![custom](../../assets/images/custom.jpg "Custom")](/picks/custom)
+![custom](../../assets/images/custom_01.jpg "Custom")(/picks/custom)<br/><br/>![custom](../../assets/images/custom_02.jpg "Custom")(/picks/custom)
 
 Always see the DaveDavePicks shop on [Heavy Repping!](https://www.heavyrepping.com/shop/store/davedavepicks/) for current listings and their exact descriptions. Click [here](https://heavyrepping.com/davedavepicks/?s=Custom&post_type=product) to see current listings of this and related models.
 

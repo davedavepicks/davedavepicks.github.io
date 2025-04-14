@@ -3,7 +3,7 @@ title: Products - Sgian Rèidh
 ---
 # Sgian Rèidh
 
-[![sgian_rèidh](../../assets/images/sgian_rèidh.jpg "Sgian_rèidh")](/picks/sgian_rèidh)
+['![sgian_rèidh](../../assets/images/sgian_rèidh_01.jpg "Sgian_rèidh")(/picks/sgian_rèidh)']
 
 Always see the DaveDavePicks shop on [Heavy Repping!](https://www.heavyrepping.com/shop/store/davedavepicks/) for current listings and their exact descriptions. Click [here](https://heavyrepping.com/davedavepicks/?s=Sgian&post_type=product) to see current listings of this and related models.
 

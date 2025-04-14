@@ -3,7 +3,7 @@ title: Products - Targe
 ---
 # Targe
 
-[![targe](../../assets/images/targe.jpg "Targe")](/picks/targe)
+['![targe](../../assets/images/targe_01.jpg "Targe")(/picks/targe)']
 
 Always see the DaveDavePicks shop on [Heavy Repping!](https://www.heavyrepping.com/shop/store/davedavepicks/) for current listings and their exact descriptions. Click [here](https://heavyrepping.com/davedavepicks/?s=Targe&post_type=product) to see current listings of this and related models.
 

@@ -3,7 +3,7 @@ title: Products - Òrd L LH
 ---
 # Òrd L LH
 
-[![òrd_l_lh](../../assets/images/òrd_l_lh.jpg "Òrd_l_lh")](/picks/òrd_l_lh)
+['![òrd_l_lh](../../assets/images/òrd_l_lh_01.jpg "Òrd_l_lh")(/picks/òrd_l_lh)']
 
 Always see the DaveDavePicks shop on [Heavy Repping!](https://www.heavyrepping.com/shop/store/davedavepicks/) for current listings and their exact descriptions. Click [here](https://heavyrepping.com/davedavepicks/?s=Òrd&post_type=product) to see current listings of this and related models.
 
@@ -20,7 +20,7 @@ resin, epoxy
 
 | **Plectrum**                                        | **Price 3d printed**   | **Price handmade**   | **Price cast**   |
 |:----------------------------------------------------|:-----------------------|:---------------------|:-----------------|
-| Òrd L LH                                          | 15.00               | 30.00             | 15.00         |
+| Òrd L LH                                          | 15.00               | -             | 15.00         |
 
 ---
 

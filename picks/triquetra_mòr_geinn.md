@@ -3,7 +3,7 @@ title: Products - Triquetra Mòr Geinn
 ---
 # Triquetra Mòr Geinn
 
-[![triquetra_mòr_geinn](../../assets/images/triquetra_mòr_geinn.jpg "Triquetra_mòr_geinn")](/picks/triquetra_mòr_geinn)
+['![triquetra_mòr_geinn](../../assets/images/triquetra_mòr_geinn_01.jpg "Triquetra_mòr_geinn")(/picks/triquetra_mòr_geinn)']
 
 Always see the DaveDavePicks shop on [Heavy Repping!](https://www.heavyrepping.com/shop/store/davedavepicks/) for current listings and their exact descriptions. Click [here](https://heavyrepping.com/davedavepicks/?s=Triquetra&post_type=product) to see current listings of this and related models.
 

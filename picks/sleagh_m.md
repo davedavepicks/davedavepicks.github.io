@@ -3,7 +3,7 @@ title: Products - Sleagh M
 ---
 # Sleagh M
 
-[![sleagh_m](../../assets/images/sleagh_m.jpg "Sleagh_m")](/picks/sleagh_m)
+['![sleagh_m](../../assets/images/sleagh_m_01.jpg "Sleagh_m")(/picks/sleagh_m)']
 
 Always see the DaveDavePicks shop on [Heavy Repping!](https://www.heavyrepping.com/shop/store/davedavepicks/) for current listings and their exact descriptions. Click [here](https://heavyrepping.com/davedavepicks/?s=Sleagh&post_type=product) to see current listings of this and related models.
 

@@ -3,7 +3,7 @@ title: Products - Cruinn
 ---
 # Cruinn
 
-[![cruinn](../../assets/images/cruinn.jpg "Cruinn")](/picks/cruinn)
+['![cruinn](../../assets/images/cruinn_01.jpg "Cruinn")(/picks/cruinn)']
 
 Always see the DaveDavePicks shop on [Heavy Repping!](https://www.heavyrepping.com/shop/store/davedavepicks/) for current listings and their exact descriptions. Click [here](https://heavyrepping.com/davedavepicks/?s=Cruinn&post_type=product) to see current listings of this and related models.
 

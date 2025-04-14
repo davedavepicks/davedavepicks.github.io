@@ -3,7 +3,7 @@ title: Products - Hebridean
 ---
 # Hebridean
 
-[![hebridean](../../assets/images/hebridean.jpg "Hebridean")](/picks/hebridean)
+['![hebridean](../../assets/images/hebridean_01.jpg "Hebridean")(/picks/hebridean)']
 
 Always see the DaveDavePicks shop on [Heavy Repping!](https://www.heavyrepping.com/shop/store/davedavepicks/) for current listings and their exact descriptions. Click [here](https://heavyrepping.com/davedavepicks/?s=Hebridean&post_type=product) to see current listings of this and related models.
 

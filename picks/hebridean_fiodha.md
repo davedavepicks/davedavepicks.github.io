@@ -3,7 +3,7 @@ title: Products - Hebridean Fiodha
 ---
 # Hebridean Fiodha
 
-[![hebridean_fiodha](../../assets/images/hebridean_fiodha.jpg "Hebridean_fiodha")](/picks/hebridean_fiodha)
+['![hebridean_fiodha](../../assets/images/hebridean_fiodha_01.jpg "Hebridean_fiodha")(/picks/hebridean_fiodha)']
 
 Always see the DaveDavePicks shop on [Heavy Repping!](https://www.heavyrepping.com/shop/store/davedavepicks/) for current listings and their exact descriptions. Click [here](https://heavyrepping.com/davedavepicks/?s=Hebridean&post_type=product) to see current listings of this and related models.
 
